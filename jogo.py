@@ -34,7 +34,7 @@ while continua == "S":
                 a = int(input("Digite o número de sua jogada: "))
                 if lista[a-1] == "O" or lista[a-1] == "X":
                     print("-Número já jogado")
-                    prin("") #erro proposital
+                    raise
                 else:
                     lista[a-1] = "O"
                     numero[a-1] = "J"
@@ -94,9 +94,13 @@ while continua == "S":
         jogada()
         tabuleiro()
         venceu()
+        if venceu() == True:
+            break
         bot()
         tabuleiro() 
         venceu()
+        if venceu() == True:
+            break
         
     
     continua = input("Deseja continuar?(S/N) ")
