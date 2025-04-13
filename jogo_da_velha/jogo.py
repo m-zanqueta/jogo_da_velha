@@ -104,7 +104,7 @@ while continua == "S" or continua == "s":
     
         
     continua = input("Deseja continuar?(S/N) ")
-    continua = continua.upper
+    continua = continua.upper()
     
     while continua != "S" and continua != "N":
         continua = input("Deseja continuar?(S/N) ")
