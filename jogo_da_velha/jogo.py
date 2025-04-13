@@ -1,7 +1,7 @@
 from random import randrange
 
 continua = "S"
-while continua == "S":
+while continua == "S" or continua == "s":
     lista = [1, 2, 3, 4, "X", 6, 7, 8, 9, 10]
     numero = [1, 2, 3, 4, "X", 6, 7, 8, 9, 10]
     
@@ -91,6 +91,9 @@ while continua == "S":
             
     tabuleiro()
     while venceu() == False:
+        venceu()
+        if venceu() == True:
+            break
         jogada()
         tabuleiro()
         venceu()
@@ -98,13 +101,14 @@ while continua == "S":
             break
         bot()
         tabuleiro() 
-        venceu()
-        if venceu() == True:
-            break
-        
     
+        
     continua = input("Deseja continuar?(S/N) ")
-
+    continua = continua.upper
+    
+    while continua != "S" and continua != "N":
+        continua = input("Deseja continuar?(S/N) ")
+        continua = continua.upper()
 
 
 
