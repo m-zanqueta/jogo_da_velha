@@ -10,9 +10,8 @@
 <img src="https://github.com/user-attachments/assets/e52d2376-bdd8-43bc-98ac-5799331bcc0e" width="300px;" alt="logo prisma"/><br>
 
 
-> Desenvolvido durante o curso online fornecido pela Cisco Networking Academy, sendo desenvolvido em parceria com a <a href="https://www.linkedin.com/company/pythoninstitute/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BydpdPJf%2FQmyZRDKwFO%2B1uA%3D%3D" target="blank_">OpenEDG Python Institute</a>.
-> com a necessidade de um aplicativo (desenvolvido em flutter) para apresentar os livros ao consumidor.
-> Espero que goste!
+> Desenvolvido durante o curso online fornecido pela <a href="https://www.linkedin.com/company/cisco-networking-academy1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BydpdPJf%2FQmyZRDKwFO%2B1uA%3D%3D" target="_blank">Cisco Networking Academy</a>, em parceria com a <a href="https://www.linkedin.com/company/pythoninstitute/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BydpdPJf%2FQmyZRDKwFO%2B1uA%3D%3D" target="_blank">OpenEDG Python Institute</a>, esse projeto contou como avaliação final para a conclusão do curso, sendo realizado totalmente em python.
+> Aproveite!
 
 ## ☕ Apresentação
 
@@ -26,9 +25,9 @@ Vídeo de apresentação das funcionalidades do projeto:
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Instalar a versão mais recente de `<C++ / Dart / Swift / Flutter>`
+- Instalar a versão mais recente de `<python>`
 - Ter uma máquina `<Windows / Linux / Mac>`.
-- Ler `<m-zanqueta/Prisma_Site/README.md>`.
+- Ler `<m-zanqueta/jogo_da_velha/README.md>`.
 
 ## 🚀 Instalando o Projeto
 
@@ -43,9 +42,9 @@ Baixe o repositório e o execute em sua máquina
 Para contribuir com a Prisma, siga estas etapas:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <prisma_mobile>`.
+2. Crie um branch: `git checkout -b jogo_da_velha`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <prisma_mobile> / <local>`
+4. Envie para o branch original: `git push origin jogo_da_velha / <local>`
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
