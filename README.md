@@ -1,4 +1,4 @@
-# Livraria Prisma - Site
+# Jogo da Velha
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/jogo_da_velha?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/jogo_da_velha?style=for-the-badge)
