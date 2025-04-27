@@ -7,7 +7,8 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/jogo_da_vekha?style=for-the-badge)
 
 
-<img src="https://github.com/user-attachments/assets/e52d2376-bdd8-43bc-98ac-5799331bcc0e" width="300px;" alt="logo prisma"/><br>
+<img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo prisma"/><br>
+
 
 
 > Desenvolvido durante o curso online fornecido pela <a href="https://www.linkedin.com/company/cisco-networking-academy1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BydpdPJf%2FQmyZRDKwFO%2B1uA%3D%3D" target="_blank">Cisco Networking Academy</a>, em parceria com a <a href="https://www.linkedin.com/company/pythoninstitute/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BydpdPJf%2FQmyZRDKwFO%2B1uA%3D%3D" target="_blank">OpenEDG Python Institute</a>, esse projeto contou como avaliação final para a conclusão do curso, sendo realizado totalmente em python.
