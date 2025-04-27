@@ -67,4 +67,4 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 
 ## 📝 Licença
 
-O projeto prisma_site está sob licença. Veja este [arquivo](LICENSE.md) para mais detalhes. 
+O projeto jogo_da_velha está sob licença. Veja este [arquivo](LICENSE.md) para mais detalhes. 
