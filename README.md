@@ -7,7 +7,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/jogo_da_vekha?style=for-the-badge)
 
 
-<img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo prisma"/><br>
+<img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo python institute"/><br>
 
 
 
@@ -34,7 +34,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando o Projeto
 
-Para instalar o site da Prisma, siga estas etapas:
+Para instalar, siga estas etapas:
 
 ```
 Baixe o repositório e o execute em sua máquina
@@ -42,7 +42,7 @@ Baixe o repositório e o execute em sua máquina
 
 ## 📫 Contribuindo para o projeto
 
-Para contribuir com a Prisma, siga estas etapas:
+Para contribuir, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b jogo_da_velha`.
