@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/jogo_da_velha?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/m-zanqueta/jogo_da_velha?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/jogo_da_velha?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/jogo_da_vekha?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/jogo_da_velha?style=for-the-badge)
 
 
 <img src="https://github.com/user-attachments/assets/85ea2fff-961e-4e9b-b746-e4c90633c1b2" width="300px;" alt="logo python institute"/><br>
